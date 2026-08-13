@@ -1,5 +1,7 @@
 # Pulluru Vanitha Portfolio
+## 🌐 Live Portfolio
 
+[View My Portfolio](https://vanitha-portfolio-gold.vercel.app/)
 Modern responsive portfolio built with React + Vite + CSS.
 
 ## Run locally
